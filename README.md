@@ -1,5 +1,5 @@
-Name  : Rendy Elang Lesmana
-NIM   : 20230040044
+Name  : Rendy Elang Lesmana<br>
+NIM   : 20230040044<br>
 Class : TI23I
 
 ## Output Program :
